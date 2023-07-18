@@ -22,3 +22,30 @@ Output: "2-5G-3J"
 ```
 
 **Explanation:** The string S has been split into three parts, each part has 2 characters except the first part as it could be shorter as mentioned above.**
+
+
+## Application Scripts
+
+### Install dependencies
+
+```
+yarn install
+```
+
+### Start development mode
+
+```
+yarn dev
+```
+
+### Build application & Start production mode
+
+```
+yarn start
+```
+
+### Run unit tests
+
+```
+yarn test
+```
